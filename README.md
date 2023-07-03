@@ -1,1 +1,1 @@
-# webui-testing-with-cypress
+# WebUI testing with Cypress
