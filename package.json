@@ -1,0 +1,27 @@
+{
+  "name": "webui-testing-with-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server --cors",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lakshminandakumar/webui-testing-with-cypress.git"
+  },
+  "author": "Lakshmi Nandakumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lakshminandakumar/webui-testing-with-cypress/issues"
+  },
+  "homepage": "https://github.com/lakshminandakumar/webui-testing-with-cypress#readme",
+  "devDependencies": {
+    "eslint": "^8.44.0",
+    "http-server": "^14.1.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
