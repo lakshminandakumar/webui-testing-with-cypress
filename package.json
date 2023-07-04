@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/lakshminandakumar/webui-testing-with-cypress#readme",
   "devDependencies": {
+    "cypress": "^12.16.0",
     "eslint": "^8.44.0",
     "http-server": "^14.1.1"
   },
