@@ -12,6 +12,10 @@ class landingPage{
     clickSearchBtn(){
         this.elements.searchBtn().click();
     }
-    
+
+    findWeatherInfo(cityName){
+        this.enterCityName(cityName);
+        this.clickSearchBtn();
+    }
 }
 module.exports = new landingPage();
